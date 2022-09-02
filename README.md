@@ -1,6 +1,7 @@
 # cs279-todo-app
 
 [Tier 1] Programming HW0: Make a To-Do App with just HTML, CSS, and JS
+
 Tutorial source code: https://www.w3schools.com/howto/howto_js_todolist.asp
 
 ## How to use
